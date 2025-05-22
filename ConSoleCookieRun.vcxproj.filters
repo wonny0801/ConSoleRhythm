@@ -22,6 +22,15 @@
     <Filter Include="Player">
       <UniqueIdentifier>{b60799e6-aee6-4a32-931a-c084b9222e9d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Enemy">
+      <UniqueIdentifier>{f260674e-da70-45db-a317-1d53455c22f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Score">
+      <UniqueIdentifier>{6cb39c14-57f1-4ee4-8bff-4d3f35aa7458}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameTime">
+      <UniqueIdentifier>{4384a182-c44f-4934-9d7b-50969c304677}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include.h">
@@ -39,6 +48,15 @@
     <ClInclude Include="Player.h">
       <Filter>Player</Filter>
     </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Score.h">
+      <Filter>Score</Filter>
+    </ClInclude>
+    <ClInclude Include="gameTime.h">
+      <Filter>GameTime</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -55,6 +73,15 @@
     </ClCompile>
     <ClCompile Include="Player.cpp">
       <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Score.cpp">
+      <Filter>Score</Filter>
+    </ClCompile>
+    <ClCompile Include="gameTime.cpp">
+      <Filter>GameTime</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

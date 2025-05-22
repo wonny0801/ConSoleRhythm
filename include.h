@@ -8,6 +8,9 @@
 
 #include "Unit.h"
 #include "Player.h"
+#include "Enemy.h"
+#include "Score.h"
+#include "GameTime.h"
 
 
 

@@ -2,7 +2,7 @@
 
 Player::Player()
 {
-	x = 3;
+	x = 10;
 	y = 29;
 	body = 'R';
 	fColor = WHITE;
@@ -37,7 +37,8 @@ void Player::Update()
 
 void Player::Draw()
 {
-	DrawChar(x, y, body, fColor, bColor);
+	if(isAlive)
+		DrawChar(x, y, body, fColor, bColor);
 }
 
 void Player::Red()

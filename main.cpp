@@ -4,12 +4,23 @@ int main()
 {
 	Init();
 
-	while (true)
+	/*while (true)
 	{
 		Update();
 		Draw();
 
 		EngineSync(30);
+	}*/
+	while (gamemng.gamePlayTimeCheck())
+	{
+		Update();
+		Draw();
+
+		EngineSync(30);
+	}
+	while (true)
+	{
+		GameOverDraw();
 	}
 
 	Release();
