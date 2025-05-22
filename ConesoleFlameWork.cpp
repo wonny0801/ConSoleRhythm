@@ -3,6 +3,9 @@
 int screenIndex;
 HANDLE hScreen[2];
 
+template<>
+GameMng* Singleton<GameMng> ::instance = nullptr;
+
 
 
 //int x, y;

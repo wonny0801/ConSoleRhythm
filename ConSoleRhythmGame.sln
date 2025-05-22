@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35913.81 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConSoleRhythmGame", "ConSoleRhythmGame\ConSoleRhythmGame.vcxproj", "{5DD77B47-785B-41FC-B2D7-5364641668CF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConSoleRhythmGame", "ConSoleRhythmGame.vcxproj", "{5DD77B47-785B-41FC-B2D7-5364641668CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A1F04575-3FD6-4E7C-BE25-D5B186C5D7CB}
+		SolutionGuid = {4E7CBF6F-D229-4DE4-BC7B-8B596C480E73}
 	EndGlobalSection
 EndGlobal
