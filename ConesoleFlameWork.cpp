@@ -3,7 +3,7 @@
 int screenIndex;
 HANDLE hScreen[2];
 
-GameMng gamemng;
+
 
 //int x, y;
 
@@ -24,21 +24,20 @@ void Init()
 void Update()
 {
 
-	gamemng.Update();
-
+	GameMng::Getles()->Update();
 }
 void Draw()
 {
 	ClearScreen(); // 화면 지우기
 
-	gamemng.Draw();
+	GameMng::Getles()->Draw();
 
 	Flip(); // 화면전환, 이중버퍼링
 }
 void GameOverDraw()
 {
 	ClearScreen();
-	//gamemng.TimeOver();
+	GameMng::Getles()->TimeOver();
 	Flip();
 }
 

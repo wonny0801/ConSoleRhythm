@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="GameMng">
+      <UniqueIdentifier>{e9a8f246-a550-4160-9c70-887cf913c9f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{fe27b2c6-f7f6-462e-8c97-b2de6693e354}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy">
+      <UniqueIdentifier>{24b2e40b-b103-4c9e-a618-b74c7ed64ec7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameTime">
+      <UniqueIdentifier>{ab83a1a9-9f45-462c-90cb-050152e35e3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Score">
+      <UniqueIdentifier>{2078f72e-cb49-4158-97e4-7b0f697e301f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unit">
+      <UniqueIdentifier>{088ba1a8-9b01-4150-8636-a08e76558c91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Singleton">
+      <UniqueIdentifier>{f54e9870-f0f8-4948-a48c-70e289e644d4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="define.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="include.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Score.h">
+      <Filter>Score</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit.h">
+      <Filter>Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="gameTime.h">
+      <Filter>GameTime</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMng.h">
+      <Filter>GameMng</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ConesoleFlameWork.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Score.cpp">
+      <Filter>Score</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit.cpp">
+      <Filter>Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="gameTime.cpp">
+      <Filter>GameTime</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMng.cpp">
+      <Filter>GameMng</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

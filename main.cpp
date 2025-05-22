@@ -11,7 +11,7 @@ int main()
 
 		EngineSync(30);
 	}*/
-	while (gamemng.gamePlayTimeCheck())
+	while (GameMng::Getles()->gamePlayTimeCheck())
 	{
 		Update();
 		Draw();

@@ -19,7 +19,7 @@ void GameMng::Update()
 	}
 	if (CreateEnemyCoolTime < GetTickCount())
 	{
-		CreateEnemyCoolTime = GetTickCount() + (rand() % 400) + 100;
+		CreateEnemyCoolTime = GetTickCount() + (rand() % 400) + 200;
 		CreateEnemy();
 	}
 	smash();
@@ -71,4 +71,9 @@ bool GameMng::gamePlayTimeCheck()
 		return false;
 
 	return true;
+}
+
+void GameMng::TimeOver()
+{
+	DrawStr(55, 15, score.body.c_str(), score.fColor, score.bColor);
 }

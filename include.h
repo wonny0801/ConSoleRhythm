@@ -6,6 +6,8 @@
 #include <sstream>
 #include "Define.h"
 
+#include "Singleton.h"
+
 #include "Unit.h"
 #include "Player.h"
 #include "Enemy.h"
@@ -30,4 +32,4 @@ void EngineSync(int fps);
 void ClearScreen();
 void Flip();
 
-extern GameMng gamemng;
+

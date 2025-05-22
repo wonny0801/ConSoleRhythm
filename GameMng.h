@@ -1,5 +1,5 @@
 #pragma once
-class GameMng
+class GameMng : public Singleton<GameMng>
 {
 public:
 	GameMng();
@@ -19,6 +19,8 @@ public:
 
 	void smash();
 	bool gamePlayTimeCheck();
+
+	void TimeOver();
 };
 	
-extern GameMng gamemng;
+
