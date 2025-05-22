@@ -130,21 +130,29 @@
     <ClInclude Include="define.h" />
     <ClInclude Include="Enemy.h" />
     <ClInclude Include="GameMng.h" />
+    <ClInclude Include="GameState.h" />
     <ClInclude Include="gameTime.h" />
     <ClInclude Include="include.h" />
+    <ClInclude Include="MenuState.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="Score.h" />
     <ClInclude Include="Singleton.h" />
+    <ClInclude Include="State.h" />
+    <ClInclude Include="StateCtrl.h" />
     <ClInclude Include="Unit.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ConesoleFlameWork.cpp" />
     <ClCompile Include="Enemy.cpp" />
     <ClCompile Include="GameMng.cpp" />
+    <ClCompile Include="GameState.cpp" />
     <ClCompile Include="gameTime.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MenuState.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="Score.cpp" />
+    <ClCompile Include="State.cpp" />
+    <ClCompile Include="StateCtrl.cpp" />
     <ClCompile Include="Unit.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

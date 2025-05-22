@@ -47,8 +47,8 @@ void Enemy::Enable(int x, int y)
 	switch (ColorNumber)
 	{
 	case 0:
-		fColor = WHITE;
-		bColor = WHITE;
+		fColor = INTENSITY_BLUE;
+		bColor = INTENSITY_BLUE;
 		break;
 	case 1:
 		fColor = RED;

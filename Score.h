@@ -1,20 +1,6 @@
 #pragma once
 
-//struct Score
-//{
-//	int Score;
-//	int x;
-//	int y;
-//	char body[50] = "SCORE : ";
-//	WORD fColor;
-//	WORD bColor;
-//};
-//
-//
-//void ScoreInit();
-//void ScorePlus();
-//void ScoreUpdate();
-//void ScoreDraw();
+
 
 class Score : public Unit
 {
@@ -23,7 +9,10 @@ public:
 	~Score();
 
 	
-
+	std::string BlueBody;
+	std::string RedBody;
+	std::string GreenBody;
+	std::string YellowBody;
 
 	int GameScore;
 	//char body[50];

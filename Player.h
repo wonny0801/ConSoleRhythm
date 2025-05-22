@@ -5,6 +5,7 @@ public:
 	Player();
 	~Player();
 
+	
 	void Update() override;
 	void Draw() override;
 
@@ -12,4 +13,5 @@ public:
 	void Green();
 	void Yellow();
 	void White();
+	void Blue();
 };

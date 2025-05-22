@@ -9,6 +9,11 @@
 #include "Singleton.h"
 
 #include "Unit.h"
+
+#include "State.h"
+#include "StateCtrl.h"
+
+
 #include "Player.h"
 #include "Enemy.h"
 #include "Score.h"
@@ -16,7 +21,8 @@
 
 
 
-
+#include "MenuState.h"
+#include "GameState.h"
 
 #include "GameMng.h"//관리자는 맨 밑에..
 

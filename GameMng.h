@@ -4,24 +4,13 @@ class GameMng : public Singleton<GameMng>
 public:
 	GameMng();
 	~GameMng();
-
-
-	int CreateEnemyCoolTime;
-
-	Player player;
-	Enemy enemys[D_ENEMY_MAX];
-	Score score;
-	GameTime gametime;
+	
+	CStateCtrl statectrl;
 
 	void Update();
 	void Draw();
 
-	void CreateEnemy();
-
-	void smash();
-	bool gamePlayTimeCheck();
-
-	void TimeOver();
+	
 };
 	
 

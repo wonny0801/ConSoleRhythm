@@ -3,7 +3,7 @@
 Player::Player()
 {
 	x = 10;
-	y = 29;
+	y = 15;
 	body = 'R';
 	fColor = WHITE;
 	bColor = BLACK;
@@ -17,19 +17,19 @@ Player::~Player()
 
 void Player::Update()
 {
-	if (GetAsyncKeyState('Q') & 0x8000)
+	if (GetAsyncKeyState('D') & 0x8000)
 	{
-		White();
+		Blue();
 	}
-	if (GetAsyncKeyState('W') & 0x8000)
+	if (GetAsyncKeyState('F') & 0x8000)
 	{
 		Red();
 	}
-	if (GetAsyncKeyState('E') & 0x8000)
+	if (GetAsyncKeyState('J') & 0x8000)
 	{
 		Green();
 	}
-	if (GetAsyncKeyState('R') & 0x8000)
+	if (GetAsyncKeyState('K') & 0x8000)
 	{
 		Yellow();
 	}
@@ -39,6 +39,8 @@ void Player::Draw()
 {
 	if(isAlive)
 		DrawChar(x, y, body, fColor, bColor);
+
+	
 }
 
 void Player::Red()
@@ -59,5 +61,10 @@ void Player::Yellow()
 void Player::White()
 {
 	fColor = WHITE;
+}
+
+void Player::Blue()
+{
+	fColor = INTENSITY_BLUE;
 }
 

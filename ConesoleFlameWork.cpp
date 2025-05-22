@@ -3,8 +3,8 @@
 int screenIndex;
 HANDLE hScreen[2];
 
-template<>
-GameMng* Singleton<GameMng> ::instance = nullptr;
+template<typename T>
+T* Singleton<T>::instance = nullptr;
 
 
 
@@ -40,7 +40,8 @@ void Draw()
 void GameOverDraw()
 {
 	ClearScreen();
-	GameMng::Getles()->TimeOver();
+	//GameMng::Getles()->TimeOver();
+	((GameState*)GameMng::Getles()->statectrl.m_pStates[E_GAME])->TimeOver();
 	Flip();
 }
 

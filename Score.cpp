@@ -17,6 +17,10 @@ Score::Score()
 	os << "hi~";
 	score.body = os.str();*/
 	body = "SCORE : " + std::to_string(GameScore);
+	BlueBody = "D = 파랑~";
+	RedBody = "F = 빨강~";
+	GreenBody = "J = 초록~";
+	YellowBody = "K = 노랑~";
 	
 }
 
@@ -41,7 +45,15 @@ void Score::Update()
 
 void Score::Draw()
 {
-	if(isAlive)
+	if (isAlive)
+	{
 		DrawStr(x, y, body.c_str(), fColor, bColor);
+		DrawStr(5, 5, BlueBody.c_str(), INTENSITY_BLUE, bColor);
+		DrawStr(18, 5, RedBody.c_str(), RED, bColor);
+		DrawStr(31, 5, GreenBody.c_str(), GREEN, bColor);
+		DrawStr(44, 5, YellowBody.c_str(), YELLOW, bColor);
+	}
+		
+
 	// .c_str() : string을 char[]로 형태변환 해주는 함수...
 }

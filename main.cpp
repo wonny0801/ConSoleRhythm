@@ -11,7 +11,7 @@ int main()
 
 		EngineSync(30);
 	}*/
-	while (GameMng::Getles()->gamePlayTimeCheck())
+	while (((GameState*)GameMng::Getles()->statectrl.m_pStates[E_GAME])->gamePlayTimeCheck())
 	{
 		Update();
 		Draw();
