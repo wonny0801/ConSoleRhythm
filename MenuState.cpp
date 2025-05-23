@@ -22,7 +22,7 @@ void MenuState::Update()
 
 void MenuState::Draw()
 {
-	DrawStr(10, 6, "made in 금냥이의~ 리듬게임!!! 빠밤~", WHITE, BLACK);
+	DrawStr(10, 6, "금냥이가~ 좋아하는~ 리듬~게임!! 리듬~게임!!", WHITE, BLACK);
 	DrawStr(10, 8, "날아오는 적들의 색깔에 맞춰 플레이어의 색을 바꾸면 됩니당~", WHITE, BLACK);
 	DrawStr(10, 9, "D를 누르면 파란색!!!", INTENSITY_BLUE, BLACK);
 	DrawStr(10, 10, "F를 누르면 빨간색!!!", RED, BLACK);
