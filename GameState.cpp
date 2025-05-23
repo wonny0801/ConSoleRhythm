@@ -70,7 +70,7 @@ void GameState::smash()
 	{
 		if (enemys[i].isAlive)
 		{
-			if (player.x == enemys[i].x && player.fColor == enemys[i].fColor)
+			if ((player.x == enemys[i].x || player.x + 1 == enemys[i].x) && player.fColor == enemys[i].fColor)
 			{
 				enemys[i].Disable();
 				score.ScorePlus();
