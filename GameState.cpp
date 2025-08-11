@@ -18,32 +18,39 @@ void GameState::Update()
 {
 	if (GetAsyncKeyState(VK_F2))
 	{
-		GameMng::Getles()->statectrl.StateChange(E_MENU);
+		GameMng::Getles()->statectrl.StateChange(new MenuState);
 	}
-	player.Update();
+
+	if (((GameState*)GameMng::Getles()->statectrl.m_pCurState)->gamePlayTimeCheck())
+	{
+		GameMng::Getles()->statectrl.StateChange(new ResultState);
+	}
+	GameMng::Getles()->player.Update();
+	
 	for (int i = 0; i < D_ENEMY_MAX; i++)
 	{
 		enemys[i].Update();
 	}
 	if (CreateEnemyCoolTime < GetTickCount())
 	{
-		CreateEnemyCoolTime = GetTickCount() + (rand() % 400) + 200;
+		CreateEnemyCoolTime = GetTickCount() + (rand() % 300) +
+			GameMng::Getles()->player.Level;
 		CreateEnemy();
 	}
 	smash();
-	score.Update();
+	GameMng::Getles()->score.Update();
 	gametime.Update();
 }
 
 void GameState::Draw()
 {
 	//DrawStr(10, 10, "GameState", WHITE, BLACK);
-	player.Draw();
+	GameMng::Getles()->player.Draw();
 	for (int i = 0; i < D_ENEMY_MAX; i++)
 	{
 		enemys[i].Draw();
 	}
-	score.Draw();
+	GameMng::Getles()->score.Draw();
 	gametime.Draw();
 }
 
@@ -70,10 +77,12 @@ void GameState::smash()
 	{
 		if (enemys[i].isAlive)
 		{
-			if ((player.x == enemys[i].x || player.x + 1 == enemys[i].x) && player.fColor == enemys[i].fColor)
+			if ((GameMng::Getles()->player.x == enemys[i].x 
+				|| GameMng::Getles()->player.x + 1 == enemys[i].x) 
+				&& GameMng::Getles()->player.fColor == enemys[i].fColor)
 			{
 				enemys[i].Disable();
-				score.ScorePlus();
+				GameMng::Getles()->score.ScorePlus();
 			}
 		}
 	}
@@ -87,8 +96,4 @@ bool GameState::gamePlayTimeCheck()
 	return true;
 }
 
-void GameState::TimeOver()
-{
-	DrawStr(43, 13, "ÇªÇÖ~!! Á¡¼ö°¡ °Ü¿ì ±× Á¤µµ¾ß...? µf¤»", WHITE, BLACK);
-	DrawStr(43, 15, score.body.c_str(), score.fColor, score.bColor);
-}
+

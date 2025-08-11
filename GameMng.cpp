@@ -2,12 +2,7 @@
 
 GameMng::GameMng()
 {
-	
-
-	statectrl.StateAdd(E_MENU, new MenuState());
-	statectrl.StateAdd(E_GAME, new GameState());
-
-	statectrl.StateChange(E_MENU);
+	statectrl.StateChange(new MenuState);
 }
 
 GameMng::~GameMng()

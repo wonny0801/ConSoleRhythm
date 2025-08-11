@@ -16,7 +16,7 @@ void MenuState::Update()
 {
 	if (GetAsyncKeyState(VK_F1))
 	{
-		GameMng::Getles()->statectrl.StateChange(E_GAME);
+		GameMng::Getles()->statectrl.StateChange(new GameState);
 	}
 }
 
@@ -28,7 +28,7 @@ void MenuState::Draw()
 	DrawStr(10, 10, "F를 누르면 빨간색!!!", RED, BLACK);
 	DrawStr(10, 11, "J를 누르면 초록색!!!", GREEN, BLACK);
 	DrawStr(10,12, "K를 누르면 노란색!!!", YELLOW, BLACK);
-	DrawStr(10, 13, "준비 되셨나요~ F1을 누르면 게임을 시작합니다아~", WHITE, BLACK);
+	DrawStr(10, 13, "준비 되셨나요~ F1을 누르면 난이도 선택창으로~!!!", WHITE, BLACK);
 }
 
 void MenuState::Exit()

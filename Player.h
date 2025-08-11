@@ -14,4 +14,6 @@ public:
 	void Yellow();
 	void White();
 	void Blue();
+
+	float Level;
 };

@@ -4,19 +4,19 @@ class CStateCtrl
 {
 public:
 	CState* m_pCurState;			// 현재 state
-	CState* m_pPrevState;			// 전 state
+	CState* temp;			// 전 state
 
-	CState* m_pStates[E_STATE_MAX];
+	//CState* m_pStates;
 	
 public:
 	CStateCtrl();
 	~CStateCtrl();
 
 public:
-	void Init();
+	/*void Init();
 	bool StateAdd(int nIndex, CState* pState);
-	bool StateRelease(int nIndex);
-	bool StateChange(int nIndex);
+	bool StateRelease(int nIndex);*/
+	bool StateChange(CState* newState);
 
 public:
 	void Update();

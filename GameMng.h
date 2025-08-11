@@ -7,6 +7,10 @@ public:
 	
 	CStateCtrl statectrl;
 
+	Player player;
+
+	Score score;
+
 	void Update();
 	void Draw();
 

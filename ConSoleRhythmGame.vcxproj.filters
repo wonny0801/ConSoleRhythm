@@ -43,6 +43,9 @@
     <Filter Include="State\GameState">
       <UniqueIdentifier>{fc81067d-6124-4156-a9b3-553897b71792}</UniqueIdentifier>
     </Filter>
+    <Filter Include="State\ResultState">
+      <UniqueIdentifier>{fc05183b-da0b-44a6-8219-c1f7d076a559}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="define.h">
@@ -84,6 +87,9 @@
     <ClInclude Include="GameState.h">
       <Filter>State\GameState</Filter>
     </ClInclude>
+    <ClInclude Include="ResultState.h">
+      <Filter>State\ResultState</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ConesoleFlameWork.cpp">
@@ -121,6 +127,9 @@
     </ClCompile>
     <ClCompile Include="GameState.cpp">
       <Filter>State\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultState.cpp">
+      <Filter>State\ResultState</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

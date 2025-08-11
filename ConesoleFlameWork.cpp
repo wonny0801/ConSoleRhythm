@@ -37,13 +37,7 @@ void Draw()
 
 	Flip(); // 화면전환, 이중버퍼링
 }
-void GameOverDraw()
-{
-	ClearScreen();
-	//GameMng::Getles()->TimeOver();
-	((GameState*)GameMng::Getles()->statectrl.m_pStates[E_GAME])->TimeOver();
-	Flip();
-}
+
 
 void Release()
 {
