@@ -18,7 +18,9 @@ public:
 	//char body[50];
 	std::string body;
 
+	void init();
 	void ScorePlus();
+	void ScoreMinus();
 	void Update();
 	void Draw();
 };

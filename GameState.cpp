@@ -4,6 +4,9 @@ GameState::GameState()
 {
 	CreateEnemyCoolTime = 0;
 	srand(time(0));
+	gametime.gameTime = 61;
+	GameMng::Getles()->score.init();
+	
 }
 
 GameState::~GameState()
@@ -21,7 +24,7 @@ void GameState::Update()
 		GameMng::Getles()->statectrl.StateChange(new MenuState);
 	}
 
-	if (((GameState*)GameMng::Getles()->statectrl.m_pCurState)->gamePlayTimeCheck())
+	if (!gamePlayTimeCheck())
 	{
 		GameMng::Getles()->statectrl.StateChange(new ResultState);
 	}
@@ -33,11 +36,12 @@ void GameState::Update()
 	}
 	if (CreateEnemyCoolTime < GetTickCount())
 	{
-		CreateEnemyCoolTime = GetTickCount() + (rand() % 300) +
+		CreateEnemyCoolTime = GetTickCount() + (rand() % (GameMng::Getles()->player.Level)) +
 			GameMng::Getles()->player.Level;
 		CreateEnemy();
 	}
 	smash();
+	miss();
 	GameMng::Getles()->score.Update();
 	gametime.Update();
 }
@@ -78,11 +82,30 @@ void GameState::smash()
 		if (enemys[i].isAlive)
 		{
 			if ((GameMng::Getles()->player.x == enemys[i].x 
-				|| GameMng::Getles()->player.x + 1 == enemys[i].x) 
+				|| GameMng::Getles()->player.x + 1 == enemys[i].x)
 				&& GameMng::Getles()->player.fColor == enemys[i].fColor)
 			{
 				enemys[i].Disable();
 				GameMng::Getles()->score.ScorePlus();
+				break;
+			}
+		}
+	}
+}
+
+void GameState::miss()
+{
+	if (GameMng::Getles()->player.Level < 500)
+	{
+		for (int i = 0; i < D_ENEMY_MAX; i++)
+		{
+			if (enemys[i].isAlive)
+			{
+				if (enemys[i].x < GameMng::Getles()->player.x - 3)
+				{
+					enemys[i].Disable();
+					GameMng::Getles()->score.ScoreMinus();
+				}
 			}
 		}
 	}

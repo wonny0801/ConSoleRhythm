@@ -26,7 +26,6 @@ void Init()
 }
 void Update()
 {
-
 	GameMng::Getles()->Update();
 }
 void Draw()

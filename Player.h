@@ -15,5 +15,5 @@ public:
 	void White();
 	void Blue();
 
-	float Level;
+	int Level;
 };

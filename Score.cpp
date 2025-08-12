@@ -26,6 +26,13 @@ Score::Score()
 
 Score::~Score()
 {
+	
+}
+
+void Score::init()
+{
+	GameScore = 0;
+	body = "SCORE : " + std::to_string(GameScore);
 }
 
 void Score::ScorePlus()
@@ -35,6 +42,17 @@ void Score::ScorePlus()
 	//body.assign("SCORE : %d", GameScore);
 
 	
+
+	body.assign("SCORE :" + std::to_string(GameScore));
+}
+
+void Score::ScoreMinus()
+{
+	GameScore -= 5; // 스코어 증가 (예: 10점 추가)
+	//sprintf_s(body, sizeof(body), "SCORE : %d", GameScore); // 문자열 업데이트
+	//body.assign("SCORE : %d", GameScore);
+
+
 
 	body.assign("SCORE :" + std::to_string(GameScore));
 }

@@ -11,4 +11,5 @@ public:
 	void Exit() override;
 
 	void TimeOver();
+	int resultScore;
 };

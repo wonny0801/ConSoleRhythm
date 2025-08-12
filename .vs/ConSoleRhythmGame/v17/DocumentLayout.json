@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,28 +11,16 @@
       "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:MenuState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ConesoleFlameWork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:ConesoleFlameWork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\include.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:include.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ResultState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:ResultState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ResultState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:ResultState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameMng.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:GameMng.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\MenuState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:MenuState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -51,20 +35,56 @@
       "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:GameMng.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\StateCtrl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:StateCtrl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameMng.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:GameMng.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\MenuState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:MenuState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\include.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:include.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ResultState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:ResultState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ResultState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:ResultState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\gameTime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:gameTime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\gameTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:gameTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ConesoleFlameWork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:ConesoleFlameWork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\StateCtrl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:StateCtrl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\StateCtrl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|solutionrelative:StateCtrl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DD77B47-785B-41FC-B2D7-5364641668CF}|ConSoleRhythmGame.vcxproj|C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -78,37 +98,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GameState.h",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameState.h",
-              "RelativeDocumentMoniker": "GameState.h",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameState.h",
-              "RelativeToolTip": "GameState.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-11T08:17:58.15Z",
+              "DocumentIndex": 10,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Enemy.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Enemy.cpp",
+              "RelativeToolTip": "Enemy.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-12T07:14:39.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "GameMng.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameMng.cpp",
-              "RelativeDocumentMoniker": "GameMng.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameMng.cpp",
-              "RelativeToolTip": "GameMng.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAADwvwQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-11T08:17:23.826Z",
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Enemy.h",
+              "RelativeDocumentMoniker": "Enemy.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Enemy.h",
+              "RelativeToolTip": "Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T07:14:38.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GameMng.h",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameMng.h",
               "RelativeDocumentMoniker": "GameMng.h",
@@ -121,176 +141,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConesoleFlameWork.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ConesoleFlameWork.cpp",
-              "RelativeDocumentMoniker": "ConesoleFlameWork.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ConesoleFlameWork.cpp",
-              "RelativeToolTip": "ConesoleFlameWork.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAewCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-11T08:14:29.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ResultState.h",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ResultState.h",
-              "RelativeDocumentMoniker": "ResultState.h",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ResultState.h",
-              "RelativeToolTip": "ResultState.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-11T08:11:35.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResultState.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ResultState.cpp",
-              "RelativeDocumentMoniker": "ResultState.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ResultState.cpp",
-              "RelativeToolTip": "ResultState.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-11T08:11:09.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Score.h",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Score.h",
               "RelativeDocumentMoniker": "Score.h",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Score.h",
               "RelativeToolTip": "Score.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-11T07:51:30.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GameState.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameState.cpp",
               "RelativeDocumentMoniker": "GameState.cpp",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameState.cpp",
               "RelativeToolTip": "GameState.cpp",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAewFoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-11T07:47:51.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StateCtrl.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\StateCtrl.cpp",
-              "RelativeDocumentMoniker": "StateCtrl.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\StateCtrl.cpp",
-              "RelativeToolTip": "StateCtrl.cpp",
-              "ViewState": "AgIAADMAAAAAAAAAAAAewD0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-11T07:33:33.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StateCtrl.h",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\StateCtrl.h",
-              "RelativeDocumentMoniker": "StateCtrl.h",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\StateCtrl.h",
-              "RelativeToolTip": "StateCtrl.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-11T07:33:29.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "include.h",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\include.h",
-              "RelativeDocumentMoniker": "include.h",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\include.h",
-              "RelativeToolTip": "include.h",
-              "ViewState": "AgIAABgAAAAAAAAAAAAIwCAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-11T07:33:11.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Player.h",
               "RelativeDocumentMoniker": "Player.h",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Player.h",
               "RelativeToolTip": "Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-11T07:31:55.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAABkAAAAAAAAAAAAswCUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-11T07:29:11.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuState.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\MenuState.cpp",
-              "RelativeDocumentMoniker": "MenuState.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\MenuState.cpp",
-              "RelativeToolTip": "MenuState.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-11T07:30:55.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Score.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Score.cpp",
-              "RelativeDocumentMoniker": "Score.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Score.cpp",
-              "RelativeToolTip": "Score.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvxIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-11T07:51:31.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "define.h",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\define.h",
-              "RelativeDocumentMoniker": "define.h",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\define.h",
-              "RelativeToolTip": "define.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvxkAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "GameState.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameState.h",
+              "RelativeDocumentMoniker": "GameState.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameState.h",
+              "RelativeToolTip": "GameState.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-11T07:33:12.229Z",
+              "WhenOpened": "2025-08-11T08:17:58.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResultState.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ResultState.h",
+              "RelativeDocumentMoniker": "ResultState.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ResultState.h",
+              "RelativeToolTip": "ResultState.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-11T08:11:35.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "ResultState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ResultState.cpp",
+              "RelativeDocumentMoniker": "ResultState.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ResultState.cpp",
+              "RelativeToolTip": "ResultState.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAD8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T08:11:09.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MenuState.h",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\MenuState.h",
               "RelativeDocumentMoniker": "MenuState.h",
@@ -302,8 +231,163 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "include.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\include.h",
+              "RelativeDocumentMoniker": "include.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\include.h",
+              "RelativeToolTip": "include.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-11T07:33:11.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Score.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Score.cpp",
+              "RelativeDocumentMoniker": "Score.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Score.cpp",
+              "RelativeToolTip": "Score.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAewDIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T07:51:31.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\MenuState.cpp",
+              "RelativeDocumentMoniker": "MenuState.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\MenuState.cpp",
+              "RelativeToolTip": "MenuState.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T07:30:55.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T07:29:11.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameMng.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameMng.cpp",
+              "RelativeDocumentMoniker": "GameMng.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\GameMng.cpp",
+              "RelativeToolTip": "GameMng.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T08:17:23.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-12T06:44:53.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "gameTime.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\gameTime.cpp",
+              "RelativeDocumentMoniker": "gameTime.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\gameTime.cpp",
+              "RelativeToolTip": "gameTime.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-12T06:48:21.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "gameTime.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\gameTime.h",
+              "RelativeDocumentMoniker": "gameTime.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\gameTime.h",
+              "RelativeToolTip": "gameTime.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-12T06:48:17.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConesoleFlameWork.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ConesoleFlameWork.cpp",
+              "RelativeDocumentMoniker": "ConesoleFlameWork.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\ConesoleFlameWork.cpp",
+              "RelativeToolTip": "ConesoleFlameWork.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T08:14:29.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StateCtrl.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\StateCtrl.cpp",
+              "RelativeDocumentMoniker": "StateCtrl.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\StateCtrl.cpp",
+              "RelativeToolTip": "StateCtrl.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAD0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T07:33:33.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StateCtrl.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\StateCtrl.h",
+              "RelativeDocumentMoniker": "StateCtrl.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\StateCtrl.h",
+              "RelativeToolTip": "StateCtrl.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-11T07:33:29.665Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "define.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\define.h",
+              "RelativeDocumentMoniker": "define.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ConSoleRhythm\\define.h",
+              "RelativeToolTip": "define.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-11T07:33:12.229Z"
             }
           ]
         }

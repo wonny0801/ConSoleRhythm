@@ -20,6 +20,7 @@ public:
 	void CreateEnemy();
 
 	void smash();
+	void miss();
 	bool gamePlayTimeCheck();
 
 	

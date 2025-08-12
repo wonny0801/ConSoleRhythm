@@ -8,7 +8,7 @@ Player::Player()
 	fColor = WHITE;
 	bColor = BLACK;
 	isAlive = true;
-
+	Level = 100.0;
 }
 
 Player::~Player()

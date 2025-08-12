@@ -2,6 +2,7 @@
 
 ResultState::ResultState()
 {
+	resultScore = GameMng::Getles()->score.GameScore / 100;
 }
 
 ResultState::~ResultState()
@@ -14,20 +15,15 @@ void ResultState::Start()
 
 void ResultState::Update()
 {
-	TimeOver();
+	if (GetAsyncKeyState(VK_F5))
+	{
+		GameMng::Getles()->statectrl.StateChange(new MenuState);
+	}
 }
 
 void ResultState::Draw()
 {
-}
-
-void ResultState::Exit()
-{
-}
-
-void ResultState::TimeOver()
-{
-	switch (GameMng::Getles()->score.GameScore / 100)
+	switch (resultScore)
 	{
 	case 10:
 		DrawStr(43, 13, "와우~!!! 엄청난 실력자군요!! 대단해요^^", WHITE, BLACK);
@@ -64,5 +60,16 @@ void ResultState::TimeOver()
 			GameMng::Getles()->score.fColor, GameMng::Getles()->score.bColor);
 		break;
 	}
+
+	DrawStr(50, 25, "press F5 : reStart !! ", BLUE, BLACK);
+}
+
+void ResultState::Exit()
+{
+}
+
+void ResultState::TimeOver()
+{
+	
 
 }
