@@ -1,4 +1,0 @@
-﻿  GameState.cpp
-C:\Users\User\Documents\GitHub\ConSoleRhythm\GameState.cpp(6,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\User\Documents\GitHub\ConSoleRhythm\GameState.cpp(37,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  ConSoleRhythmGame.vcxproj -> C:\Users\User\Documents\GitHub\ConSoleRhythm\x64\Debug\ConSoleRhythmGame.exe
